@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849881764008",
+    "project_id": "daftarteman3-7e9db",
+    "storage_bucket": "daftarteman3-7e9db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849881764008:android:9032878d733c9b0932329d",
+        "android_client_info": {
+          "package_name": "com.example.daftarteman3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849881764008-q9k42k370vi8mq39pobcrumgjpvdrsi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMByadeWRjzuP_41OQ30Hu7PrCr0pZPAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849881764008-q9k42k370vi8mq39pobcrumgjpvdrsi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
